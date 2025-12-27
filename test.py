@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 # --- EMAIL SETTINGS ---
 sender_email = "mahirbd2013@gmail.com"
-receiver_email = "endersmithreturn@gmail.com"
+receiver_email = "endersmithreborn@gmail.com"
 app_password = "hesw qbse dkte xksw" 
 
 def send_email(user_ip):
